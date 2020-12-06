@@ -13,7 +13,7 @@ user@machine:~$ sudo apt install ffmpeg
 user@machine:~$ virtualenv -p python3 env
 user@machine:~$ source env/bin/activate
 (env) user@machine:~$ pip install youtube-dl
-(env) user@machine:~$ exit
+(env) user@machine:~$ deactivate
 user@machine:~$
 ```
 
