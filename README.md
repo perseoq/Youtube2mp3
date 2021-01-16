@@ -30,7 +30,7 @@ user@machine:~$ nano .bashrc
 ```
 - Agrega
 ```
-alias mp3 = '/home/user/env/bin/python mp3.py'
+alias mp3 = '/home/user/env/bin/python /home/user/Youtube2mp3/mp3.py'
 ```
 ```
 user@machine:~$ source .bashrc
